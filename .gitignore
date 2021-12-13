@@ -1,0 +1,5 @@
+target/
+work/
+.mvn/
+.idea/
+pipeline-event.iml
